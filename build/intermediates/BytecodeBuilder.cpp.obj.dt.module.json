@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\BytecodeBuilder.obj",
+            "outputs": [
+                "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\BytecodeBuilder.cpp.obj.dt.module.json",
+                "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\BytecodeBuilder.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

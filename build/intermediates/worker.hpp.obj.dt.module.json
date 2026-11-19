@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\worker.obj",
+            "outputs": [
+                "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\worker.hpp.obj.dt.module.json",
+                "C:\\Users\\dachi\\Downloads\\Xeno-src\\Xeno-src\\Xeno-main\\build\\intermediates\\worker.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
